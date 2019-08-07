@@ -1,6 +1,6 @@
 # [JAMstack Visualize](https://appseed.us/apps/jamstack/jamstack-visualize-pixelarity)
 
-Blazing fast application coded by AppSeed in JAMstack pattern on top of Visualize Pixelarity design.
+Blazing fast application coded by AppSeed in [JAMstack](https://jamstack.org/) pattern on top of Visualize Pixelarity design.
 
 <br />
 
