@@ -4,8 +4,7 @@
     "design"  : "Visualize by Pixelarity",
 
     "links" : {
-        "product_live"   : "https://appseed.us/apps/jamstack/jamstack-visualize-pixelarity", 
-        "product"        : "https://github.com/app-generator/priv-jamstack-visualize",
+        "product"        : "https://appseed.us/apps/jamstack/jamstack-visualize-pixelarity", 
         "github"         : "https://github.com/app-generator/priv-jamstack-visualize",
         "docs"           : "https://docs.appseed.us/apps/jamstack/jamstack-visualize-pixelarity/",
         "appseed"        : "https://appseed.us",      
